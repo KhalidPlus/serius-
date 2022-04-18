@@ -1,22 +1,17 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "SnowAnarchy",
+		"ip": "snowanarchy.me",
 		"type": "PC"
 	},
 	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
+		"name": "7r7b",
+		"ip": "7r7b.org",
 		"type": "PC"
 	},
 	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
-		"type": "PC"
-	},
-	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "7b7t",
+		"ip": "8b8t.me",
 		"type": "PC"
 	}
 ]
